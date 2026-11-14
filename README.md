@@ -4,7 +4,8 @@
 
 「摸啡」取自台語「摸飛」（moo-hui，摸魚的意思）。這是我一個人在台北、新北跑咖啡廳的筆記網站。我只負責提供隨手筆記、Google Maps 連結和照片，AI 依照 [`AGENTS.md`](AGENTS.md) 的規則整理成店家頁、地區頁、標籤頁與報告，網站會自動讀取並顯示。
 
-- 🌐 網站：https://<你的帳號>.github.io/<repo 名稱>/
+- 🌐 網站：https://s98103.github.io/TAICA_HW9/
+- 📁 GitHub：https://github.com/s98103/TAICA_HW9
 - 📘 AI 規則：[AGENTS.md](AGENTS.md)（Claude Code 透過 [CLAUDE.md](CLAUDE.md) 讀取同一份）
 
 ## 功能
