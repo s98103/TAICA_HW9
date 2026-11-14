@@ -1,0 +1,404 @@
+{
+  "generated": "2026-11-14T16:51:01.523Z",
+  "shops": [
+    {
+      "type": "shop",
+      "id": "coffee-loopy",
+      "name": "Coffee loopy",
+      "name_en": null,
+      "city": "台北市",
+      "district": "中正區",
+      "area": "taipei-zhongzheng",
+      "map_url": "https://maps.app.goo.gl/A3StZpcounc1Jr476",
+      "google_rating": 4.8,
+      "google_reviews": 273,
+      "rating_checked": "2026-11-14",
+      "address": "100臺北市中正區羅斯福路三段244巷2弄2號",
+      "hours": "週一至週五 07:30–17:00；週六、日 10:00–17:00",
+      "time_limit": null,
+      "price": null,
+      "scores": {
+        "dessert": 4,
+        "vibe": null,
+        "quiet": null,
+        "work": 2
+      },
+      "tags": [
+        "chat",
+        "brunch"
+      ],
+      "must_order": [
+        "鮮蔬鮪魚起司蛋三明治"
+      ],
+      "visited": "2026-09-07",
+      "visits": 1,
+      "cover": "assets/img/shops/coffee-loopy/cover.jpg",
+      "status": "open",
+      "sources": [
+        "raw/notes/2026-09-07-coffee-loopy.md"
+      ],
+      "summary": "三明治豐富又平價，適合聊天、短暫吃一下",
+      "photos": [
+        "assets/img/shops/coffee-loopy/01.jpg"
+      ],
+      "path": "wiki/shops/coffee-loopy.md"
+    },
+    {
+      "type": "shop",
+      "id": "douceur-cafe",
+      "name": "Douceur Café 暖日",
+      "name_en": null,
+      "city": "新北市",
+      "district": "永和區",
+      "area": "newtaipei-yonghe",
+      "map_url": "https://maps.app.goo.gl/ZtfnVDESsNQgKdDw5",
+      "google_rating": 4.6,
+      "google_reviews": 57,
+      "rating_checked": "2026-11-14",
+      "address": "234新北市永和區民權里民權路15巷2號1樓",
+      "hours": "請參照店家 Instagram",
+      "time_limit": null,
+      "price": 3,
+      "scores": {
+        "dessert": 3,
+        "vibe": 4,
+        "quiet": null,
+        "work": null
+      },
+      "tags": [
+        "brunch"
+      ],
+      "must_order": [],
+      "visited": "2026-06-06",
+      "visits": 1,
+      "cover": "assets/img/shops/douceur-cafe/cover.jpg",
+      "status": "open",
+      "sources": [
+        "raw/notes/2026-06-06-douceur-cafe.md"
+      ],
+      "summary": "環境舒服、擺盤漂亮，但價格偏高",
+      "photos": [
+        "assets/img/shops/douceur-cafe/01.jpg",
+        "assets/img/shops/douceur-cafe/02.jpg",
+        "assets/img/shops/douceur-cafe/03.jpg"
+      ],
+      "path": "wiki/shops/douceur-cafe.md"
+    },
+    {
+      "type": "shop",
+      "id": "360-cafe",
+      "name": "360咖啡廳",
+      "name_en": null,
+      "city": "新北市",
+      "district": "中和區",
+      "area": "newtaipei-zhonghe",
+      "map_url": "https://maps.app.goo.gl/hiAnWq7hQMfSJz1KA",
+      "google_rating": 4.7,
+      "google_reviews": 106,
+      "rating_checked": "2026-11-14",
+      "address": "235新北市中和區中安里中和路360巷9號",
+      "hours": "週一至週日 08:30–20:30",
+      "time_limit": "不限時",
+      "price": 2,
+      "scores": {
+        "dessert": 4,
+        "vibe": null,
+        "quiet": null,
+        "work": 4
+      },
+      "tags": [
+        "outlets",
+        "wifi",
+        "no-limit",
+        "chat"
+      ],
+      "must_order": [
+        "迷你可頌小鬆餅"
+      ],
+      "visited": "2026-05-30",
+      "visits": 1,
+      "cover": "assets/img/shops/360-cafe/cover.jpg",
+      "status": "open",
+      "sources": [
+        "raw/notes/2026-05-30-360-cafe.md"
+      ],
+      "summary": "每個座位都有插座又不限時，CP 值超高",
+      "photos": [
+        "assets/img/shops/360-cafe/01.jpg",
+        "assets/img/shops/360-cafe/02.jpg"
+      ],
+      "path": "wiki/shops/360-cafe.md"
+    },
+    {
+      "type": "shop",
+      "id": "yangmao-yu-hua-yongkang",
+      "name": "羊毛與花 ‧ 永康",
+      "name_en": null,
+      "city": "台北市",
+      "district": "大安區",
+      "area": "taipei-daan",
+      "map_url": "https://share.google/6JDaOroizzdiv2EUI",
+      "google_rating": 4.4,
+      "google_reviews": 1591,
+      "rating_checked": "2026-11-14",
+      "address": "106臺北市大安區福住里永康街37巷12號",
+      "hours": "週一至週日 11:00–22:00",
+      "time_limit": "不限時",
+      "price": null,
+      "scores": {
+        "dessert": 4,
+        "vibe": null,
+        "quiet": null,
+        "work": 4
+      },
+      "tags": [
+        "outlets",
+        "wifi",
+        "no-limit",
+        "brunch",
+        "chat",
+        "late-night"
+      ],
+      "must_order": [
+        "佛卡夏早餐盤"
+      ],
+      "visited": "2026-04-16",
+      "visits": 1,
+      "cover": "assets/img/shops/yangmao-yu-hua-yongkang/cover.jpg",
+      "status": "open",
+      "sources": [
+        "raw/notes/2026-04-16-yangmao-yu-hua-yongkang.md"
+      ],
+      "summary": "不限時、每座都有插座，早餐盤好吃又划算",
+      "photos": [
+        "assets/img/shops/yangmao-yu-hua-yongkang/01.jpg",
+        "assets/img/shops/yangmao-yu-hua-yongkang/02.jpg"
+      ],
+      "path": "wiki/shops/yangmao-yu-hua-yongkang.md"
+    },
+    {
+      "type": "shop",
+      "id": "cong-caphe-zhongzheng",
+      "name": "Cong Caphe 台北總店",
+      "name_en": null,
+      "city": "台北市",
+      "district": "中正區",
+      "area": "taipei-zhongzheng",
+      "map_url": "https://maps.app.goo.gl/6R3E75UAaxeoM8Bp6",
+      "google_rating": 4.3,
+      "google_reviews": 1548,
+      "rating_checked": "2026-11-14",
+      "address": "100臺北市中正區黎明里開封街一段16號",
+      "hours": "週一至週日 09:00–20:30",
+      "time_limit": null,
+      "price": null,
+      "scores": {
+        "dessert": null,
+        "vibe": null,
+        "quiet": null,
+        "work": null
+      },
+      "tags": [
+        "chat"
+      ],
+      "must_order": [
+        "抹茶可可"
+      ],
+      "visited": "2026-03-26",
+      "visits": 1,
+      "cover": "assets/img/shops/cong-caphe-zhongzheng/cover.jpg",
+      "status": "open",
+      "sources": [
+        "raw/notes/2026-03-26-cong-caphe-zhongzheng.md"
+      ],
+      "summary": "越南咖啡店，適合約朋友來聊天",
+      "photos": [
+        "assets/img/shops/cong-caphe-zhongzheng/01.jpg"
+      ],
+      "path": "wiki/shops/cong-caphe-zhongzheng.md"
+    },
+    {
+      "type": "shop",
+      "id": "liudingmu",
+      "name": "六丁目",
+      "name_en": null,
+      "city": "台北市",
+      "district": "松山區",
+      "area": "taipei-songshan",
+      "map_url": "https://maps.app.goo.gl/MJXKgj1wfmTWZvaB9",
+      "google_rating": 4.6,
+      "google_reviews": 1805,
+      "rating_checked": "2026-11-14",
+      "address": "105臺北市松山區介壽里新中街6巷7號",
+      "hours": "週一至週日 12:00–21:00",
+      "time_limit": "沒客滿不限時，客滿限時 3 小時",
+      "price": null,
+      "scores": {
+        "dessert": 5,
+        "vibe": null,
+        "quiet": null,
+        "work": 3
+      },
+      "tags": [
+        "dessert",
+        "solo"
+      ],
+      "must_order": [
+        "蛋沙拉麵包"
+      ],
+      "visited": "2024-04-12",
+      "visits": 4,
+      "cover": "assets/img/shops/liudingmu/cover.jpg",
+      "status": "open",
+      "sources": [
+        "raw/notes/2024-04-12-liudingmu.md"
+      ],
+      "summary": "甜點都好吃、一個人也自在，抹茶控必訪",
+      "photos": [
+        "assets/img/shops/liudingmu/01.jpg",
+        "assets/img/shops/liudingmu/02.jpg",
+        "assets/img/shops/liudingmu/03.jpg",
+        "assets/img/shops/liudingmu/04.jpg",
+        "assets/img/shops/liudingmu/05.jpg",
+        "assets/img/shops/liudingmu/06.jpg",
+        "assets/img/shops/liudingmu/07.jpg"
+      ],
+      "path": "wiki/shops/liudingmu.md"
+    }
+  ],
+  "areas": [
+    {
+      "type": "area",
+      "id": "taipei-zhongzheng",
+      "name": "中正區",
+      "city": "台北市",
+      "path": "wiki/areas/taipei-zhongzheng.md",
+      "count": 2
+    },
+    {
+      "type": "area",
+      "id": "taipei-daan",
+      "name": "大安區",
+      "city": "台北市",
+      "path": "wiki/areas/taipei-daan.md",
+      "count": 1
+    },
+    {
+      "type": "area",
+      "id": "taipei-songshan",
+      "name": "松山區",
+      "city": "台北市",
+      "path": "wiki/areas/taipei-songshan.md",
+      "count": 1
+    },
+    {
+      "type": "area",
+      "id": "newtaipei-yonghe",
+      "name": "永和區",
+      "city": "新北市",
+      "path": "wiki/areas/newtaipei-yonghe.md",
+      "count": 1
+    },
+    {
+      "type": "area",
+      "id": "newtaipei-zhonghe",
+      "name": "中和區",
+      "city": "新北市",
+      "path": "wiki/areas/newtaipei-zhonghe.md",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "type": "tag",
+      "id": "chat",
+      "name": "適合聊天",
+      "icon": "💬",
+      "description": "可以自在聊天，不怕吵到別人",
+      "path": "wiki/tags/chat.md",
+      "count": 4
+    },
+    {
+      "type": "tag",
+      "id": "brunch",
+      "name": "有早午餐",
+      "icon": "🍳",
+      "description": "有正餐或早午餐可以吃",
+      "path": "wiki/tags/brunch.md",
+      "count": 3
+    },
+    {
+      "type": "tag",
+      "id": "no-limit",
+      "name": "不限時",
+      "icon": "⏳",
+      "description": "平日沒有用餐時間限制",
+      "path": "wiki/tags/no-limit.md",
+      "count": 2
+    },
+    {
+      "type": "tag",
+      "id": "outlets",
+      "name": "插座多",
+      "icon": "🔌",
+      "description": "一半以上的座位找得到插座",
+      "path": "wiki/tags/outlets.md",
+      "count": 2
+    },
+    {
+      "type": "tag",
+      "id": "wifi",
+      "name": "有 Wi-Fi",
+      "icon": "📶",
+      "description": "店家有提供 Wi-Fi",
+      "path": "wiki/tags/wifi.md",
+      "count": 2
+    },
+    {
+      "type": "tag",
+      "id": "dessert",
+      "name": "甜點強",
+      "icon": "🍰",
+      "description": "甜點好吃到會推薦",
+      "path": "wiki/tags/dessert.md",
+      "count": 1
+    },
+    {
+      "type": "tag",
+      "id": "late-night",
+      "name": "營業到晚上",
+      "icon": "🌙",
+      "description": "營業到晚上 9 點以後",
+      "path": "wiki/tags/late-night.md",
+      "count": 1
+    },
+    {
+      "type": "tag",
+      "id": "solo",
+      "name": "一人友善",
+      "icon": "🙋",
+      "description": "一個人去也很自在",
+      "path": "wiki/tags/solo.md",
+      "count": 1
+    },
+    {
+      "type": "tag",
+      "id": "group",
+      "name": "適合聚會",
+      "icon": "👥",
+      "description": "有大桌子，適合好幾個人一起去",
+      "path": "wiki/tags/group.md",
+      "count": 0
+    },
+    {
+      "type": "tag",
+      "id": "mrt-near",
+      "name": "捷運站旁",
+      "icon": "🚇",
+      "description": "從捷運站走 5 分鐘內就到",
+      "path": "wiki/tags/mrt-near.md",
+      "count": 0
+    }
+  ],
+  "reports": []
+}

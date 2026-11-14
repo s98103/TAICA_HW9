@@ -1,0 +1,10 @@
+# 不上傳到 GitHub 的檔案
+
+# 自己的修改需求筆記（Word 檔）與 Office 暫存檔
+*.docx
+~$*
+
+# 系統產生的檔案
+Thumbs.db
+desktop.ini
+.DS_Store
