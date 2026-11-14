@@ -54,5 +54,5 @@ title: 關於摸啡人生
 <a href="https://fonts.google.com/noto/specimen/Noto+Serif+TC"><b>Google Fonts：Noto Serif TC</b><span>標題字型</span></a>
 <a href="https://fonts.google.com/noto/specimen/Noto+Sans+Egyptian+Hieroglyphs"><b>Google Fonts：Noto Sans Egyptian Hieroglyphs</b><span>讓招牌顏文字的 𓇋 𓌉 正確顯示</span></a>
 <a href="https://marked.js.org/"><b>marked</b><span>把 Markdown 筆記轉成網頁</span></a>
-<a href="https://pages.github.com/"><b>GitHub Pages</b><span>網站架設</span></a>
+<a href="https://github.com/s98103/TAICA_HW9"><b>GitHub：s98103/TAICA_HW9</b><span>本網站的原始碼與 AGENTS.md 規則，網站由 GitHub Pages 架設</span></a>
 </div>
