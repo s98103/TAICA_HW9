@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>摸啡人生｜雙北咖啡廳筆記</title>
+<meta name="description" content="摸啡人生：想讓你找到雙北最讚的摸啡地點，一個人在台北、新北跑咖啡廳的筆記，附 Google 評分與讀書工作適合度">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>☕</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs&text=%F0%93%87%8B%F0%93%8C%89&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<main class="wrap">
+  <section class="hero">
+    <h1>摸啡人生</h1>
+    <p>想讓你找到雙北最讚的摸啡地點 <span class="kao">( •ω•)ノ☕</span></p>
+    <p class="stat">已收錄<b id="stat-shops">–</b>家咖啡廳</p>
+  </section>
+
+  <section class="pick" aria-label="隨機推薦">
+    <button id="pick" class="btn" type="button">🎲 今天去哪摸啡？</button>
+    <p id="pick-result" class="pick-result" aria-live="polite">不知道去哪？讓骰子幫你決定！</p>
+  </section>
+
+  <section aria-label="篩選">
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="搜尋店名、區域、必點…" aria-label="搜尋">
+      <select id="city" aria-label="縣市"><option value="">雙北全部</option><option>台北市</option><option>新北市</option></select>
+      <select id="district" aria-label="行政區"></select>
+      <select id="sort" aria-label="排序"></select>
+    </div>
+    <div id="tag-chips" class="chips"></div>
+  </section>
+
+  <p id="result-count" class="result-count"></p>
+  <section id="shop-grid" class="grid"><p class="loading">載入中…</p></section>
+</main>
+<script src="wiki/data.js"></script>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/home.js"></script>
+</body>
+</html>
